@@ -2,7 +2,7 @@
 // LINT: LEGACY_NAMES
 syntax = "proto2";
 option java_outer_classname = "OpenRtb";
-package com.adsizzler.commons.protobuff.proto;
+package com.adsizzler.mangolaa.commons.protobuff;
 
 // Copyright 2017 Google Inc. All Rights Reserved.
 
