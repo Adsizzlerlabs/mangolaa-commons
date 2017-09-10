@@ -1,7 +1,6 @@
 package com.adsizzler.mangolaa.commons.json.deserializers
 
 import com.adsizzler.mangolaa.commons.BaseSpec
-import com.adsizzler.mangolaa.commons.domain.openrtb.enums.Category
 import com.adsizzler.mangolaa.commons.json.jackson.deserializers.CategoryDeserializer
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.databind.SerializationFeature

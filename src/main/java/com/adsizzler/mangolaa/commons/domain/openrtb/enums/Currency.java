@@ -1,7 +1,7 @@
 package com.adsizzler.mangolaa.commons.domain.openrtb.enums;
 
-import com.adsizzler.mangolaa.commons.utils.Strings;
 import com.adsizzler.mangolaa.commons.json.jackson.deserializers.CurrencyDeserializer;
+import com.adsizzler.mangolaa.commons.utils.Strings;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.google.common.collect.ImmutableMap;
 import lombok.Getter;

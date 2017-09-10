@@ -1,7 +1,7 @@
 package com.adsizzler.mangolaa.commons.domain.openrtb.enums;
 
-import com.adsizzler.mangolaa.commons.utils.Strings;
 import com.adsizzler.mangolaa.commons.json.jackson.deserializers.GenderDeserializer;
+import com.adsizzler.mangolaa.commons.utils.Strings;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import lombok.Getter;

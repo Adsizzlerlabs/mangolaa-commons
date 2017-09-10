@@ -1,7 +1,7 @@
 package com.adsizzler.mangolaa.commons.domain;
 
-import com.adsizzler.mangolaa.commons.utils.Strings;
 import com.adsizzler.mangolaa.commons.json.jackson.deserializers.StatusDeserializer;
+import com.adsizzler.mangolaa.commons.utils.Strings;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import lombok.Getter;
 import lombok.experimental.var;

@@ -1,8 +1,8 @@
 package com.adsizzler.mangolaa.commons.domain.openrtb.enums;
 
-import com.adsizzler.mangolaa.commons.utils.Strings;
 import com.adsizzler.mangolaa.commons.json.jackson.deserializers.CategoryDeserializer;
 import com.adsizzler.mangolaa.commons.json.jackson.serializers.CategorySerializer;
+import com.adsizzler.mangolaa.commons.utils.Strings;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 import com.google.common.collect.ImmutableMap;
