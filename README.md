@@ -7,4 +7,4 @@ It contains :
    3. Utility classes for manipulating Strings, working with Java 8 Time API etc.
    
  
-This is very much a work in progress
+This is very much a work in progress. It relies heavily on the Lombok library.
